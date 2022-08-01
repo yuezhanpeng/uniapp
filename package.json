@@ -1,0 +1,7 @@
+{
+	"name":"second",
+	"version":"1.0.0",
+	"dependencies": {
+		"uview-ui": "^2.0.33"
+	}
+}
